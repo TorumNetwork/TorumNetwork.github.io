@@ -1,0 +1,23 @@
+{
+  "name": "Torum Network Token List",
+  "logoURI": "https://torumnetwork.github.io/logo.png",
+  "keywords": ["torum", "defi", "bep20"],
+  "timestamp": "2025-05-21T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xcCF2E9E04A5485278D48E79D610a71dEd3d8133F",
+      "name": "Torum Network",
+      "symbol": "XTM",
+      "decimals": 18,
+      "logoURI": "https://torumnetwork.github.io/logo.png",
+      "website": "https://torum.network",
+      "description": "Torum Network is a decentralized analytics token providing transparent and actionable DeFi data."
+    }
+  ]
+}
